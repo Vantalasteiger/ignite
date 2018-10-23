@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnitePriceServer", "IgnitePriceServer\IgnitePriceServer.csproj", "{0970206E-80C4-4333-8F92-4800DA338ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0970206E-80C4-4333-8F92-4800DA338ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0970206E-80C4-4333-8F92-4800DA338ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0970206E-80C4-4333-8F92-4800DA338ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0970206E-80C4-4333-8F92-4800DA338ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC9CEAA-EE24-4478-8B64-5039EF5E5C7C}
+	EndGlobalSection
+EndGlobal
